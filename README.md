@@ -2,8 +2,7 @@
 
 ## Je t'aime de tout mon cœur 
 
-Coeur(Liked.svg.png)
-
+(texte/Liked.svg.png)
 
 
 

@@ -1,6 +1,6 @@
 <html>
 <head>
-  <title>Texte avec une police d'écriture énorme</title>
+  <title>Je t'aime mon coeur</title>
   <style>
     /* Utilisation de la propriété font-size pour agrandir le texte */
     .huge-text {

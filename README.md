@@ -2,7 +2,7 @@
 
 ## Je t'aime de tout mon cœur 
 
-(texte/Liked.svg.png)
+(https://github.com/AbdelTheGoat/texte/blob/main/Liked.svg.png)
 
 
 
